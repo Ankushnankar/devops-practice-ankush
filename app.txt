@@ -1,2 +1,7 @@
 hi good morning
 welcome to my first devops pratical
+1
+2
+3
+4
+5
