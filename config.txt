@@ -2,3 +2,7 @@ A practical DevOps implementation bridges software coding
 and IT operations using automated workflows, containerization,
 and infrastructure management. Core tasks involve setting up 
 version control
+ankush
+vaibhav
+swapnil
+gautam
